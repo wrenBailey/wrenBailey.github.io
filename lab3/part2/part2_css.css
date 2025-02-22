@@ -1,7 +1,8 @@
 html {
   font-family: sans-serif;
 }
-.box {
+body
+ {
     width: 200 px;
     height: 200 px;
     background-color: red;
