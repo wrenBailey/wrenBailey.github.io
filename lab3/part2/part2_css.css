@@ -1,13 +1,10 @@
 html {
   font-family: sans-serif;
 }
-.box
- {
-    width: 200 px;
-    height: 200 px;
-    background-color: red;
-    border-radius: 10%;
-    margin: 50 px;
-    padding: 15 px;
-    border: 2px solid rebeccapurple;
+.box{
+    padding: 20%;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    border-radius: 30%;
 }
