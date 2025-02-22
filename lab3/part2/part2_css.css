@@ -9,4 +9,5 @@ body
     border-radius: 10%;
     margin: 50 px;
     padding: 15 px;
+    border: 2px solid rebeccapurple;
 }
