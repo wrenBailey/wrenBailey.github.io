@@ -1,0 +1,11 @@
+html {
+  font-family: sans-serif;
+}
+.box {
+    width: 200 px;
+    height: 200 px;
+    background-color: red;
+    border-radius: 10%;
+    margin: 50 px;
+    
+}
