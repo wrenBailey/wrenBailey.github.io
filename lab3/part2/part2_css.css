@@ -7,5 +7,6 @@ html {
     width: 200px;
     height: 200px;
     background-color: brown;
+    border: 2px;
     border-radius: 30%;
 }
