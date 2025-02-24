@@ -3,12 +3,11 @@ html {
 }
 .words
 {
-    border: 20px;
-    border-radius: 30px;
-    padding: 20px;
     width: 200px;
     height: 200px;
-    background-color: brown;
+    border: 20px;
     margin: 50px;
-
+    padding: 20px;
+    border-radius: 30px;
+    background-color: brown;
 }
