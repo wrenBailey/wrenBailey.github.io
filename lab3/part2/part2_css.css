@@ -1,9 +1,10 @@
 html {
   font-family: sans-serif;
+  background-color: aliceblue;
 }
 body
 {
-    border: 3px solid rgb(193, 0, 0);
+    border: 1px solid rgb(193, 0, 0);
     width: 200px;
     height: 200px;
     margin: 10%;
@@ -12,10 +13,6 @@ body
     padding: 30%;
     font-size: 45px;
     border-radius: 1em;
-    background-image: radial-gradient(
-      circle,
-      rgb(112, 0, 0) 39%,
-      rgb(51 56 57 / 100%) 96%
-    );
     background-size: 100px 50px;
+    text-shadow: 2px 2px 5px black;
 }
