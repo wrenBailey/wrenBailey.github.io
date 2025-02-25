@@ -49,8 +49,7 @@ h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-top: solid red;
     border-bottom: solid red;
-    top: 3em;
-    left: 5em;
+    text-align: center;
 }
 h2{
     font-size: 2em;
@@ -59,4 +58,10 @@ h2{
 p{
     font-family: Arial, Helvetica, sans-serif;
     text-indent: 50px;
+}
+ul{
+    font-family: sans-serif;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
 }
