@@ -61,7 +61,8 @@ p{
 }
 ul{
     font-family: sans-serif;
-    font-size: large;
+    font-size: x-large;
     display: flex;
     flex-direction: column;
+    
 }
