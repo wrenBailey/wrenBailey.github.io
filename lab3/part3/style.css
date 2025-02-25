@@ -64,5 +64,7 @@ ul{
     font-size: x-large;
     display: flex;
     flex-direction: column;
-    
+    padding: 1em;
+    border: 1px solid #ff7979;
+    margin: 20px;
 }
