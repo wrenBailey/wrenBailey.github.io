@@ -3,8 +3,11 @@ html {
 }
 body
 {
-    border: 3px solid red;
+    border: 3px solid rgb(193, 0, 0);
     width: 200px;
     height: 200px;
-
+    margin: 500px;
+    background-color: red;
+    color: white;
+    padding: 100px;
 }
