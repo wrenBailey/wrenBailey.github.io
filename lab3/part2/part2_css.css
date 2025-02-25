@@ -6,8 +6,9 @@ body
     border: 3px solid rgb(193, 0, 0);
     width: 200px;
     height: 200px;
-    margin: 500px;
+    margin: 10%;
     background-color: red;
     color: white;
-    padding: 100px;
+    padding: 10%;
+    font-size: 18px;
 }
