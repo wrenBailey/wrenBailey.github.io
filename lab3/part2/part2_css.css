@@ -9,6 +9,7 @@ body
     margin: 10%;
     background-color: red;
     color: white;
-    padding: 10%;
-    font-size: 18px;
+    padding: 30%;
+    font-size: 45px;
+    border-radius: 1em;
 }
